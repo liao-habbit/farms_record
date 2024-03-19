@@ -2,3 +2,4 @@ ok
 這只是一段示範的文字
 這是另外一段示範文字
 測試對github 遠端傳輸
+#在github上打另一段文字之後傳輸給local machine 
